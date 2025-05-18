@@ -1,4 +1,7 @@
-## Hi there 👋
+## Salut, moi c’est Romain 👋
+🎓 Étudiant bac+5 | 💻 Symfony, Vue.js, Docker  
+🚀 Passionné par les projets fun, l'accessibilité & la sécurité  
+📬 Contacte-moi : [LinkedIn](...) | [Mail](mailto:...)
 
 <!--
 **RomainNgd/RomainNgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
